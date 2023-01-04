@@ -19,7 +19,16 @@ well... Im so sorry maybe the construction can be very simple and sloppy.
 
 ## Change log
 
+#### 1.1
+
+1.1
+- rebuild
+
+
+
 #### 1.0
 
 release 1.0( ß )
 - first release.  Includes basic options. We plan to implement commands for Hackintosh in the future.
+
+
