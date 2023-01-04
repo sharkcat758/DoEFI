@@ -11,7 +11,7 @@ well... Im so sorry maybe the construction can be very simple and sloppy.
 
    Mount EFI > `doefi -m`
    Unmount EFI > `doefi -u`
-
+   Help DoEFI > `doefi -h`
    This command is need " Root (su) "
 
 
