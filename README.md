@@ -5,7 +5,7 @@ well... Im so sorry maybe the construction can be very simple and sloppy.
 
 ## How to install and use DoEFI
 
-1. Open "Install" and if u wanna use Doefi, agree for installing Doefi. Now, by design you have to restart the terminal. Therefore, if there is any other work in progress, please finish it before installing, or executing it in a separate tab.
+1. First,Download latest version DoEFI from[This Link](https://github.com/sharkcat758/DoEFI/releases).Next,Drag and drop the downloaded installation shell to the terminal. Open "Install" and if u wanna use Doefi, agree for install doefi.　Now, by design, you have to restart the terminal. Therefore, if there is any other work in progress, please finish it before installing, or execute it in a separate tab.
 
 2. Type `doefi [OPTON]`.
 
