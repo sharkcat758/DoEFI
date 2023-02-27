@@ -6,8 +6,11 @@ well... Im so sorry maybe the construction can be very simple and sloppy.
 ## How to install and use DoEFI
 
 1. First,Download latest version DoEFI from  [This Link](https://github.com/sharkcat758/DoEFI/releases) . 
-Next,Drag and drop the downloaded installation shell to the terminal. 
-Open "Install" and if u wanna use Doefi, agree for install doefi.　Now, by design, you have to restart the terminal. Therefore, if there is any other work in progress, please finish it before installing, or execute it in a separate tab.
+After downloading, you can run it after changing permissions using the 'chmod' command.
+
+Up until the previous version, we had an installation wizard, but it was optimized for zsh only, various bugs occurred including problems with administrative privileges, and we did not feel the need to have a complicated installation process for a very crude piece of software, and we felt it was against the spirit of open source. Therefore, it was discontinued.
+
+Therefore, after downloading, you may pass through PATH or modify the file, but please refrain from secondary distribution after modification.
 
 2. Type `doefi [OPTON]`.
 
@@ -20,6 +23,10 @@ Open "Install" and if u wanna use Doefi, agree for install doefi.　Now, by desi
 
 
 ## Change log
+
+#### 2.0
+
+Eliminated installation.
 
 #### 1.1
 
