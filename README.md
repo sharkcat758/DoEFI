@@ -1,5 +1,9 @@
 DoEFI
 ==================
+
+This is my first piece of work to test the use of Github, VSCode, etc.
+
+
 This command makes it easy to mount the EFI right away when installing Opencore or Clover to run Hackintosh for example.
 well... Im so sorry maybe the construction can be very simple and sloppy.
 
