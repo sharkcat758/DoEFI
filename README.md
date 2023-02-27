@@ -3,7 +3,7 @@ DoEFI
 This command makes it easy to mount the EFI right away when installing Opencore or Clover to run Hackintosh for example.
 well... Im so sorry maybe the construction can be very simple and sloppy.
 
-## How to install and use DoEFI
+## How to use DoEFI
 
 1. First,Download latest version DoEFI from  [This Link](https://github.com/sharkcat758/DoEFI/releases) . 
 After downloading, you can run it after changing permissions using the 'chmod' command.
