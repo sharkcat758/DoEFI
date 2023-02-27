@@ -12,6 +12,7 @@ Up until the previous version, we had an installation wizard, but it was optimiz
 
 Therefore, after downloading, you may pass through PATH or modify the file, but please refrain from secondary distribution after modification.
 
+
 2. Type `doefi [OPTON]`.
 
    Mount EFI > `doefi -m`
